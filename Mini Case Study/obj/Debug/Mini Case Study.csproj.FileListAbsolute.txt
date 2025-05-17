@@ -17,4 +17,3 @@ C:\Users\A\Desktop\FPSExercise\PI-Work_ProductDesign_CaseStudy\Mini Case Study\b
 C:\Users\A\Desktop\FPSExercise\PI-Work_ProductDesign_CaseStudy\Mini Case Study\obj\Debug\Mini Cas.F22E2FEA.Up2Date
 C:\Users\A\Desktop\FPSExercise\PI-Work_ProductDesign_CaseStudy\Mini Case Study\obj\Debug\Mini Case Study.exe
 C:\Users\A\Desktop\FPSExercise\PI-Work_ProductDesign_CaseStudy\Mini Case Study\obj\Debug\Mini Case Study.pdb
-C:\Users\A\Desktop\FPSExercise\PI-Work_ProductDesign_CaseStudy\Mini Case Study\bin\Debug\My_DB_SQLite\Mini_Case-DB_SQLite.db

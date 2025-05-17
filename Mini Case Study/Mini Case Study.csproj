@@ -89,9 +89,8 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <None Include="My_DB_SQLite\Mini_Case-DB_SQLite.db">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
+    <None Include="My_DB_SQLite\Mini_Case-DB_SQLite.db" />
+    <None Include="My_DB_SQLite\Mini_Case-DB_SQLite.sqbpro" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
