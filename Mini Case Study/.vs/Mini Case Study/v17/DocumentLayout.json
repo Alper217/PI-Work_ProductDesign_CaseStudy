@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\A\\Desktop\\FPSExercise\\PI-Work_ProductDesign_CaseStudy\\Mini Case Study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2B09E44-155A-43C8-B835-3DF90E399EC2}|Mini Case Study.csproj|c:\\users\\a\\desktop\\fpsexercise\\pi-work_productdesign_casestudy\\mini case study\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B2B09E44-155A-43C8-B835-3DF90E399EC2}|Mini Case Study.csproj|c:\\users\\a\\desktop\\fpsexercise\\pi-work_productdesign_casestudy\\mini case study\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B09E44-155A-43C8-B835-3DF90E399EC2}|Mini Case Study.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B09E44-155A-43C8-B835-3DF90E399EC2}|Mini Case Study.csproj|C:\\Users\\A\\Desktop\\FPSExercise\\PI-Work_ProductDesign_CaseStudy\\Mini Case Study\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B2B09E44-155A-43C8-B835-3DF90E399EC2}|Mini Case Study.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 269,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,7 +26,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\A\\Desktop\\FPSExercise\\PI-Work_ProductDesign_CaseStudy\\Mini Case Study\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -31,6 +35,19 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T11:18:40.148Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Desktop\\FPSExercise\\PI-Work_ProductDesign_CaseStudy\\Mini Case Study\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\A\\Desktop\\FPSExercise\\PI-Work_ProductDesign_CaseStudy\\Mini Case Study\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAIwLAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:04:54.343Z",
+              "EditorCaption": ""
             }
           ]
         }

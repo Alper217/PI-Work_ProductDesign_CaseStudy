@@ -1,0 +1,20 @@
+C:\Users\A\Desktop\FPSExercise\PI-Work_ProductDesign_CaseStudy\Mini Case Study\obj\Debug\Mini Case Study.csproj.AssemblyReference.cache
+C:\Users\A\Desktop\FPSExercise\PI-Work_ProductDesign_CaseStudy\Mini Case Study\obj\Debug\Mini_Case_Study.Form1.resources
+C:\Users\A\Desktop\FPSExercise\PI-Work_ProductDesign_CaseStudy\Mini Case Study\obj\Debug\Mini_Case_Study.Properties.Resources.resources
+C:\Users\A\Desktop\FPSExercise\PI-Work_ProductDesign_CaseStudy\Mini Case Study\obj\Debug\Mini Case Study.csproj.GenerateResource.cache
+C:\Users\A\Desktop\FPSExercise\PI-Work_ProductDesign_CaseStudy\Mini Case Study\obj\Debug\Mini Case Study.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\FPSExercise\PI-Work_ProductDesign_CaseStudy\Mini Case Study\bin\Debug\Mini Case Study.exe.config
+C:\Users\A\Desktop\FPSExercise\PI-Work_ProductDesign_CaseStudy\Mini Case Study\bin\Debug\Mini Case Study.exe
+C:\Users\A\Desktop\FPSExercise\PI-Work_ProductDesign_CaseStudy\Mini Case Study\bin\Debug\Mini Case Study.pdb
+C:\Users\A\Desktop\FPSExercise\PI-Work_ProductDesign_CaseStudy\Mini Case Study\bin\Debug\EntityFramework.dll
+C:\Users\A\Desktop\FPSExercise\PI-Work_ProductDesign_CaseStudy\Mini Case Study\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\A\Desktop\FPSExercise\PI-Work_ProductDesign_CaseStudy\Mini Case Study\bin\Debug\System.Data.SQLite.dll
+C:\Users\A\Desktop\FPSExercise\PI-Work_ProductDesign_CaseStudy\Mini Case Study\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\A\Desktop\FPSExercise\PI-Work_ProductDesign_CaseStudy\Mini Case Study\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\A\Desktop\FPSExercise\PI-Work_ProductDesign_CaseStudy\Mini Case Study\bin\Debug\EntityFramework.xml
+C:\Users\A\Desktop\FPSExercise\PI-Work_ProductDesign_CaseStudy\Mini Case Study\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\A\Desktop\FPSExercise\PI-Work_ProductDesign_CaseStudy\Mini Case Study\bin\Debug\System.Data.SQLite.xml
+C:\Users\A\Desktop\FPSExercise\PI-Work_ProductDesign_CaseStudy\Mini Case Study\obj\Debug\Mini Cas.F22E2FEA.Up2Date
+C:\Users\A\Desktop\FPSExercise\PI-Work_ProductDesign_CaseStudy\Mini Case Study\obj\Debug\Mini Case Study.exe
+C:\Users\A\Desktop\FPSExercise\PI-Work_ProductDesign_CaseStudy\Mini Case Study\obj\Debug\Mini Case Study.pdb
+C:\Users\A\Desktop\FPSExercise\PI-Work_ProductDesign_CaseStudy\Mini Case Study\bin\Debug\My_DB_SQLite\Mini_Case-DB_SQLite.db
